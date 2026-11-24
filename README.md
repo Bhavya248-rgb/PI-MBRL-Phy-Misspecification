@@ -1,13 +1,6 @@
 \# Sensitivity of Physics-Informed Model-Based RL to Parametric and Structural Model Errors
 
 
-
-Capstone project, B.Tech CSE (AI \& ML), VIT-AP University.
-
-Supervisor: Dr. Sibi Chakkaravarthy Sethuraman.
-
-
-
 Studies when a learned residual network helps a physics model in model-based RL,
 
 on two simulated robots: a differential-drive robot and a two-link arm.
